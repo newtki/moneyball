@@ -15,4 +15,5 @@ By re-evaluating the strategies that produce wins on the field, the 2002 Athleti
 Because of the team's smaller revenues, Oakland is forced to find players undervalued by the market, and their system for finding value in undervalued players has proven itself thus far. This approach brought the A's to the playoffs in 2002 and 2003.
 In this project we will work with some data and with the goal of trying to find replacement players for the ones lost at the start of the off-season - During the 2001–02 offseason, the team lost three key free agents to larger market teams: 2000 AL MVP Jason Giambi to the New York Yankees, outfielder Johnny Damon to the Boston Red Sox, and closer Jason Isringhausen to the St. Louis Cardinals.
 
-This was a capstone project for course "Data Science & Machine Learning with R"
+This was a capstone project for course "Data Science & Machine Learning with R". 
+In this project I used R to essential try and create a replacement lineup for players lost during the 2001 season for the Oakland A's.
